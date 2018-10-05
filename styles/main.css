@@ -8,12 +8,12 @@ body {
 }
 
 h1 {
-    font-size: 32px;
-    color: White;
+    font-size: 1.2rem;
+    color: Black;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 1.2rem;
     text-align: center;
     border-bottom: 1px solid rgb(10, 138, 110);
 }
@@ -21,7 +21,7 @@ h2 {
 header, main, footer {
     margin: 1.25rem auto;
     padding: .5rem;
-    max-width: 7px;
+    max-width: 100px;
 }
 
 header, footer, footer a {
@@ -37,4 +37,4 @@ header img {
 }
 
 footer {
-    font-size: 6px;
+    font-size: 32px;
